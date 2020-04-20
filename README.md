@@ -1,5 +1,5 @@
 # Teorias
-Site feito para criar teorias, usando angular e bootstrap
+Site feito para testar os conhecimentos em programação e demonstrar as teorias da Pixar, usando angular e bootstrap
 Referência: https://www.aficionados.com.br/teoria-pixar-a-teoria-que-liga-a-todos-os-filmes-em-um-unico-universo/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
