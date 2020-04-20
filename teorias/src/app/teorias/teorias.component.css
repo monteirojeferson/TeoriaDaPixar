@@ -1,0 +1,30 @@
+/* #div1{
+    background-image: url('https://i.imgur.com/FZXQfcD.png');
+    min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#div2{
+    background-image: url('https://i.imgur.com/Rd4DFWo.png');
+    min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+.text-block {
+    width: 800px;
+    height: 400px;
+    position: absolute;
+    bottom: 40px;
+    right: 20px;
+    background-color: rgba(0, 0, 0, 0.274);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  img{
+      width:600px;
+      height: 550px;
+     
+  }
