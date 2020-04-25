@@ -1,0 +1,21 @@
+
+.parallax{
+    background-image: url('https://i.imgur.com/dd6N5Ek.jpg');
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#netflix{
+    color: red;
+}
+img{
+    /* height é a altura da imagem, pra todas ficarem do mesmo tamanho */
+    height: 50%;
+}
+
+img:hover{
+    -webkit-transform: translate(20px, 20px);
+    transform: translate(20px, 20px);
+}

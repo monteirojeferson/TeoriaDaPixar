@@ -9,6 +9,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { TeoriasComponent } from './teorias/teorias.component';
+import { NetflixComponent } from './netflix/netflix.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { TeoriasComponent } from './teorias/teorias.component';
     ContatosComponent,
     NavbarComponent,
     FooterComponent,
-    TeoriasComponent
+    TeoriasComponent,
+    NetflixComponent
   ],
   imports: [
     BrowserModule,
