@@ -10,6 +10,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { TeoriasComponent } from './teorias/teorias.component';
 import { NetflixComponent } from './netflix/netflix.component';
+import { HttpClientModule } from '@angular/common/http'
 
 @NgModule({
   declarations: [
@@ -24,7 +25,9 @@ import { NetflixComponent } from './netflix/netflix.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FontAwesomeModule
+    FontAwesomeModule,
+    HttpClientModule
+
   ],
   providers: [],
   bootstrap: [AppComponent]
